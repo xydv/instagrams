@@ -1,0 +1,7 @@
+{
+  "name": "instagrams",
+  "version": "1.0.0",
+  "description": "Instagram Metadata Scraper!",
+  "main": "index.js",
+  "keywords": ["instagram", "scraper"]
+}
