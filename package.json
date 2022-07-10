@@ -1,7 +1,23 @@
 {
   "name": "instagrams",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Instagram Metadata Scraper!",
   "main": "index.js",
-  "keywords": ["instagram", "scraper"]
+  "keywords": [
+    "instagram",
+    "scraper"
+  ],
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavdotcodes/instagrams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavdotcodes/instagrams/issues"
+  },
+  "homepage": "https://github.com/yadavdotcodes/instagrams#readme"
 }
